@@ -1,0 +1,67 @@
+.wood {
+    background-image: url('../img/fondocontenedor.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.letra{
+    font-size: 20px;
+}
+
+.navbar-brand img{
+    width: 50px;
+    height: auto;
+}
+
+.imgProducts{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card{
+    border: 3px solid rgb(88, 56, 8);
+    background-color: rgba(185, 146, 17, 0.473);
+    display: flex;
+    align-items: center;
+    margin: .5rem;
+    padding: 1rem;
+}
+
+.colorBoton{
+    color: #fafafa;
+    background-color: #84bb659c;
+}
+
+.colorBoton:hover{
+    background-color: rgb(9, 97, 9);
+    color: #fafafa;
+}
+
+#filter__input{
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 40%;
+}
+
+#carritoTable{
+    display: none;
+    text-align: center;
+    border-radius: 5px;
+    position: fixed;
+    top: 10%;
+    right: 5%;
+    width: 40%;
+    height: auto;
+    background-color: whitesmoke;
+    z-index: 10001;
+}
+
+#agregar__producto{
+    display: none;
+}

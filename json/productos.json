@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1, 
+        "nombre": "Pilsen",
+        "categoria": "Lager", 
+        "img": "../img/pilsen.jpg",
+        "precio": 950,
+        "cantidad":  1
+    },
+    {
+        "id": 2, 
+        "nombre": "Amber",
+        "categoria": "Lager", 
+        "img": "../img/amber.jpg",
+        "precio": 900,
+        "cantidad":  1
+    },
+    {
+        "id": 3, 
+        "nombre": "Bock",
+        "categoria": "Lager", 
+        "img": "../img/bock.jpg",
+        "precio": 750,
+        "cantidad":  1
+    },
+    {
+        "id": 4, 
+        "nombre": "Marzen",
+        "categoria": "Lager", 
+        "img": "../img/marzen.jpg",
+        "precio": 950,
+        "cantidad":  1
+    },
+    {
+        "id": 5, 
+        "nombre": "German Lager",
+        "categoria": "Lager", 
+        "img": "../img/german.jpg",
+        "precio": 900,
+        "cantidad":  1
+    },
+    {
+        "id": 6, 
+        "nombre": "IPA",
+        "categoria": "Ale", 
+        "img": "../img/ipa.jpg",
+        "precio": 1000,
+        "cantidad":  1
+    },
+    {
+        "id": 7, 
+        "nombre": "Porter",
+        "categoria": "Ale", 
+        "img": "../img/porter.jpg",
+        "precio": 1000,
+        "cantidad":  1
+    },
+    {
+        "id": 8, 
+        "nombre": "Weizenbier",
+        "categoria": "Ale", 
+        "img": "../img/weizenbier.jpg",
+        "precio": 1000,
+        "cantidad":  1
+    },
+    {
+        "id": 9, 
+        "nombre": "Belgian",
+        "categoria": "Ale", 
+        "img": "../img/belgian.jpg",
+        "precio": 1200,
+        "cantidad":  1
+    },
+    {
+        "id": 10, 
+        "nombre": "Pale Ale",
+        "categoria": "Ale", 
+        "img": "../img/paleale.jpg",
+        "precio": 1000,
+        "cantidad":  1
+    }
+]
+
+
+
+
+
